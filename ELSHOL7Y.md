@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MohamedAboAdel
+- 👀 I’m interested in Programming and computer science
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on Flutter friends group
+- 📫 How to reach me ... elsholhy1and@gmail.com 
